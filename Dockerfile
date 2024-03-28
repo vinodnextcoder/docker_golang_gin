@@ -1,6 +1,9 @@
 From golang:1.21
 
-WORKDIR /go/src/app
+FROM golang:1.21
+
+# Set destination for COPY
+WORKDIR /app
 
 COPY . .
 
