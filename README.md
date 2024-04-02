@@ -1,4 +1,4 @@
-# docker_golang_gin
+# docker golang gin
 
 
 ## Build and run it via commands
